@@ -1,1 +1,1 @@
-this is jsut a practice/demo
+this is just a practice/demo
